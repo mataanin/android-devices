@@ -1,3 +1,11 @@
+"Android tablets database.
+
+",,,,,,,,,,,,,
+Phone database: ,https://docs.google.com/spreadsheet/ccc?key=0Argh_eVbu2eZdDNCTVB6VmpxWEVKR1VqNE9zQzRHUGc#gid=0,,,,,,,,,,,,
+Fork on GitHub: ,https://github.com/mataanin/android-devices,,,,,,,,,,,,
+"Author:
+",https://twitter.com/MaksimGolivkin,,,,,,,,,,,,
+,,,,,,,,,,,,,
 Manufacturer,Name,Diagonal,Generalized Size,Density Bucket ,Width,Height,Density,Bucket,Width dp,Height dp,Release date,Original version,Latest version
 Dell,Dell Streak (aka Mini 5 and Streak 5),5,large,mdpi,800,480,187,160,800,480,,,
 Acer,Acer Iconia Tab A100,7,large,mdpi,1024,600,170,160,"1,024",600,,,

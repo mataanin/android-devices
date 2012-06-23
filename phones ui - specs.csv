@@ -1,3 +1,11 @@
+"Android phones database.
+
+",,,,,,,,,,,,,
+Tablet database: ,,https://docs.google.com/spreadsheet/ccc?key=0Argh_eVbu2eZdDBXdmpld1dvckl6RUlHamJjMzVaQXc#gid=2,,,,,,,,,,,
+Fork on GitHub: ,,https://github.com/mataanin/android-devices,,,,,,,,,,,
+"Author:
+",,https://twitter.com/MaksimGolivkin,,,,,,,,,,,
+,,,,,,,,,,,,,
 Manufacturer,Model,Diagonal,Generalized density,Density bucket,Width,Height,Density,Bucket dpi,Width (dp),Height (db),Released,Original version,Latest version
 Samsung,Epic (D700),4,normal,hdpi,480,800,233.24,240,320,533,,,
 Samsung,Jet (S8000),3.1,small,xhdpi,480,800,300.95,320,240,400,,,
@@ -34,9 +42,9 @@ Motorola,Atrix,4,normal,hdpi,540,960,275.36,240,360,640,April 2011,2.2,2.3
 Motorola,Defy,3.7,normal,hdpi,480,854,264.77,240,320,569,October 2010,2.1,2.2
 Motorola,Defy Mini,3.2,normal,mdpi,320,480,180.28,160,320,480,February 2012,2.3.6,
 Motorola,Droid 4 XT894,4,normal,hdpi,540,960,275.36,240,360,640,February 2012,2.3.6,
-Motorola,Flipout ,2.8,small,mdpi,320,240,142.86,160,320,240,June 2010,2.1,
+Motorola,Flipout ,2.8,small,ldpi,320,240,142.86,120,427,320,June 2010,2.1,
 Motorola,Razr,4.3,normal,hdpi,540,960,256.15,240,360,640,May 2012,2.3.6,4
-Sony,X10 mini,2.55,small,mdpi,240,320,156.86,160,240,320,May 2012,1.6,2.1/2.2
+Sony,X10 mini,2.55,small,ldpi,240,320,156.86,120,320,427,May 2012,1.6,2.1/2.2
 Sony,X10i,4,normal,hdpi,480,854,244.91,240,320,569,March 2010,1.6,2.3
 Sony ,Arc S,4.2,normal,hdpi,480,854,233.25,240,320,569,September 2011,2.3.4,
 Sony ,Xperia Play,4,normal,hdpi,480,854,244.91,240,320,569,March 2011,2.3.4,4
