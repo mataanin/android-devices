@@ -7,46 +7,57 @@ Fork on GitHub: ,,https://github.com/mataanin/android-devices,,,,,,,,,,,
 ",,https://twitter.com/MaksimGolivkin,,,,,,,,,,,
 ,,,,,,,,,,,,,
 Manufacturer,Model,Diagonal,Generalized density,Density bucket,Width,Height,Density,Bucket dpi,Width (dp),Height (db),Released,Original version,Latest version
-Samsung,Epic (D700),4,normal,hdpi,480,800,233.24,240,320,533,,,
-Samsung,Jet (S8000),3.1,small,xhdpi,480,800,300.95,320,240,400,,,
-Samsung,Nexus S,4,normal,hdpi,480,800,233.24,240,320,533,December 2010,2.3,4.0.3
-Samsung,Galaxy W (I8150),3.7,normal,hdpi,480,800,252.15,240,320,533,,,
-Samsung,Galaxy S (I9000),4,normal,hdpi,480,800,233.24,240,320,533,,,
-Samsung,Galaxy S Plus (I9001),4,normal,hdpi,480,800,233.24,240,320,533,,,
-Samsung,Galaxy SII (I9100),4.27,normal,hdpi,480,800,218.49,240,320,533,,,
+HTC,"Tattoo, Touch2",2.8,small,ldpi,240,320,142.86,120,320,427,,,
+HTC,Wildfire,3.2,small,ldpi,240,320,125.00,120,320,427,December 2010,2.3,4.0.3
+Samsung,Galaxy Mini (GT-S5570),3.14,small,ldpi,240,320,127.39,120,320,427,,,
+Samsung,Galaxy Y (S5360),3,small,ldpi,240,320,133.33,120,320,427,,,
+Sony,X10 mini,2.55,small,ldpi,240,320,156.86,120,320,427,,,
+HTC,ChaCha,2.6,small,mdpi,320,480,221.88,160,320,480,,,
+HTC,Salsa,3.2,small,mdpi,320,480,180.28,160,320,480,,,
+HTC,Aria,3.2,small,mdpi,320,480,180.28,160,320,480,June 2010,2.1,
+HTC,"Aria, Dream, Gratia, Hero, Legend, Magic, Wildfire S",3.2,small,mdpi,320,480,180.28,160,320,480,October 2010,2.1,
+Huawei,Blaze,3.4,normal,mdpi,320,480,169.67,160,320,480,,,
+LG,LG-P500,3.2,small,mdpi,320,480,180.28,160,320,480,October 2010,2.2,2.3
+Motorola,i1,3.1,small,mdpi,320,480,186.00,160,320,480,,2.1,2.3.6
+Motorola,Defy Mini,3.2,small,mdpi,320,480,180.28,160,320,480,,,
+Samsung,Galaxy Ace (GT-5830L),3.5,normal,mdpi,320,480,164.83,160,320,480,,,
+Samsung,Galaxy Gio (GT-S5660),3.2,small,mdpi,320,480,180.28,160,320,480,,,
+Sony,Xperia X8,3,small,mdpi,320,480,192.30,160,320,480,April 2011,2.2,2.3
+HTC,"Evo, HD2, Thunderbolt",4.3,normal,hdpi,480,800,216.97,240,320,533,October 2010,2.1,2.2
+HTC,Desire HD,4.3,normal,hdpi,480,800,216.97,240,320,533,February 2012,2.3.6,4
+HTC,Touch HD,3.8,normal,hdpi,480,800,245.51,240,320,533,May 2012,2.3.6,4
+HTC,"Desire***, Desire Z, Desire S, Droid Incredible***",3.7,normal,hdpi,480,800,252.15,240,320,533,March 2010,1.6,2.3
+HTC,"Desire***, Nexus One",3.7,normal,hdpi,480,800,252.15,240,320,533,September 2011,2.3.4,
+Samsung,Epic (D700),4,normal,hdpi,480,800,233.24,240,320,533,November 2010,2.1,2.2
+Samsung,Nexus S,4,normal,hdpi,480,800,233.24,240,320,533,September 2010,2.3,4
+Samsung,Galaxy W (GT-I8150),3.7,normal,hdpi,480,800,252.15,240,320,533,,,
+Samsung,Galaxy S (GT-I9000),4,normal,hdpi,480,800,233.24,240,320,533,,,
+Samsung,Galaxy S Plus (GT-I9001),4,normal,hdpi,480,800,233.24,240,320,533,,,
+Samsung,Galaxy SII (GT-I9100),4.27,normal,hdpi,480,800,218.49,240,320,533,June 2010,2.1,
+ZTE,Blade,3.5,normal,hdpi,480,800,266.56,240,320,533,May 2012,1.6,2.1/2.2
+Motorola,Defy MB525,3.7,normal,hdpi,480,854,264.77,240,320,569,May 2010,2.1,
+Sony,X10i,4,normal,hdpi,480,854,244.91,240,320,569,,,
+Sony ,Arc S,4.2,normal,hdpi,480,854,233.25,240,320,569,July 201,2.3,
+Sony ,Xperia Play,4,normal,hdpi,480,854,244.91,240,320,569,,,
+Sony ,"LT15a, Arc, Anzu, X12",4.2,normal,hdpi,480,854,233.00,240,320,569,September 2010,1.6,2.1
+HTC,One X,4.7,large,xhdpi,720,1280,312.47,320,360,640,May 2010,1.5,
+HTC,EVO LTE,4.7,large,xhdpi,720,1280,312.47,320,360,640,,,
+HTC,Rezound,4.3,normal,xhdpi,720,1280,341.54,320,360,640,,,
+Motorola,Atrix,4,normal,hdpi,540,960,275.36,240,360,640,,2.1,
+Motorola,Droid 4 XT894,4,normal,hdpi,540,960,275.36,240,360,640,February 2012,2.3.6,
+Motorola,Razr,4.3,normal,hdpi,540,960,256.15,240,360,640,October 2010,2.2,2.3
 Samsung,Galaxy SIII,4.8,large,xhdpi,720,1280,305.96,320,360,640,,,
 Samsung,Galaxy Nexus,4.65,large,xhdpi,720,1280,315.83,320,360,640,December 2011,4,4.0.4
-Samsung,Galaxy Mini,3.14,small,ldpi,240,320,127.39,120,320,427,,,
 Samsung,Galaxy Note,5.3,large,xhdpi,800,1280,284.80,320,400,640,,,
-Samsung,Galaxy Ace,3.5,normal,mdpi,320,480,164.83,160,320,480,,,
-Samsung,Galaxy Gio (GT-S5660),3.2,normal,mdpi,320,480,180.28,160,320,480,,,
-Samsung,Galaxy Y (S5360),3,small,ldpi,240,320,133.33,120,320,427,,,
-HTC,Wildfire,3.2,normal,ldpi,240,320,125.00,120,320,427,May 2010,2.1,
-HTC,Salsa,3.2,normal,mdpi,320,480,180.28,160,320,480,,,
-HTC,"Tattoo, Touch2",2.8,small,ldpi,240,320,142.86,120,320,427,,,
-HTC,"Aria, Dream, Gratia, Hero, Legend, Magic, Wildfire S",3.2,normal,mdpi,320,480,180.28,160,320,480,,2.1,
-HTC,"Evo, HD2, Thunderbolt",4.3,normal,hdpi,480,800,216.97,240,320,533,,,
-HTC,ChaCha,2.6,small,mdpi,320,480,221.88,160,320,480,,,
-HTC,Rezound,4.3,normal,xhdpi,720,1280,341.54,320,360,640,,,
-HTC,Desire HD,4.3,normal,hdpi,480,800,216.97,240,320,533,October 2010,2.2,4
-HTC,Touch HD,3.8,normal,hdpi,480,800,245.51,240,320,533,,,
-HTC,"Desire***, Desire Z, Desire S, Droid Incredible***",3.7,normal,hdpi,480,800,252.15,240,320,533,,,
-HTC,"Desire***, Nexus One",3.7,normal,hdpi,480,800,252.15,240,320,533,,2.1,2.3.6
-HTC,"Sensation, Evo 3D",4.3,normal,hdpi,960,540,256.15,240,640,360,,,
+Motorola,Flipout ,2.8,small,ldpi,320,240,142.86,120,427,320,May 2012,4.0.3,
+HTC,"Sensation, Evo 3D",4.3,normal,hdpi,960,540,256.15,240,640,360,May 2012,4,
 HTC,Sensation XE,4.3,normal,hdpi,960,540,256.15,240,640,360,,,
-HTC,Touch Pro2,3.6,normal,hdpi,480,800,259.15,240,320,533,,,
-HTC,One X,4.7,large,xhdpi,720,1280,312.47,320,360,640,May 2012,4.0.3,
-HTC,EVO LTE,4.7,large,xhdpi,720,1280,312.47,320,360,640,May 2012,4,
-Huawei,Blaze,3.4,normal,mdpi,320,480,169.67,160,320,480,July 201,2.3,
-Motorola,Atrix,4,normal,hdpi,540,960,275.36,240,360,640,April 2011,2.2,2.3
-Motorola,Defy,3.7,normal,hdpi,480,854,264.77,240,320,569,October 2010,2.1,2.2
-Motorola,Defy Mini,3.2,normal,mdpi,320,480,180.28,160,320,480,February 2012,2.3.6,
-Motorola,Droid 4 XT894,4,normal,hdpi,540,960,275.36,240,360,640,February 2012,2.3.6,
-Motorola,Flipout ,2.8,small,ldpi,320,240,142.86,120,427,320,June 2010,2.1,
-Motorola,Razr,4.3,normal,hdpi,540,960,256.15,240,360,640,May 2012,2.3.6,4
-Sony,X10 mini,2.55,small,ldpi,240,320,156.86,120,320,427,May 2012,1.6,2.1/2.2
-Sony,X10i,4,normal,hdpi,480,854,244.91,240,320,569,March 2010,1.6,2.3
-Sony ,Arc S,4.2,normal,hdpi,480,854,233.25,240,320,569,September 2011,2.3.4,
-Sony ,Xperia Play,4,normal,hdpi,480,854,244.91,240,320,569,March 2011,2.3.4,4
-Sony,Xperia X8,3,small,mdpi,320,480,192.30,160,320,480,September 2010,1.6,2.1
-ZTE,Blade,3.5,normal,hdpi,480,800,266.56,240,320,533,November 2010,2.1,2.2
+Samsung ,"Galaxy 551, i5510",3.2,small,ldpi,240,400,145.77,120,320,533,October 2010,,
+Motorola ,Droid 2,3.7,normal,hdpi,480,854.00,264.77,240,320,569,August 2010,2.2,
+Motorola,Droid X2,4.3,normal,hdpi,540,960,256.15,240,360,640,May 2012,2.3,
+Motorola,Razr Maxx,4.3,normal,hdpi,540,960,256.15,240,360,640,May 2012,2.3.6,4
+LG ,Nexus 4,4.7,large,xhdpi,768,1280,318.00,320,384,640,,,
+LG,Intuition,5,large,hdpi,768,1024,256.00,240,512,683,,,
+HTC,Fireball/Incredible 4g,4,normal,hdpi,540,960,256.00,240,360,640,"2011, April",2.2,4.03
+Motorola,Razr M,4.3,normal,hdpi,540,960,256.00,240,360,640,September 2012,4.04,4.1
+Samsung ,Galaxy Stellar 4G I200,4,normal,hdpi,480,800,256.00,240,320,533,August 2012,4.0.4,
