@@ -17,7 +17,8 @@ Spreadsheet-friendly versions:
 
  * [Phones](https://docs.google.com/spreadsheet/ccc?key=0Argh_eVbu2eZdDNCTVB6VmpxWEVKR1VqNE9zQzRHUGc)
  * [Tablets](https://docs.google.com/spreadsheet/ccc?key=0Argh_eVbu2eZdDBXdmpld1dvckl6RUlHamJjMzVaQXc#gid=2)
- 
+ * [Build.Model values for different phones](https://docs.google.com/spreadsheet/ccc?key=0Argh_eVbu2eZdE5uRmtISXJuSk5MT1FvTmNMWkxlX1E)
+
 Credits (based on):
  
  * [Blundell's list of devices](http://blog.blundell-apps.com/list-of-android-devices-with-pixel-density-buckets/)
