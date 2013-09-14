@@ -1,7 +1,7 @@
 Build.Model,Model,Manufacturer,Comment
 Galaxy Nexus,Galaxy Nexus,Samsung,
 SCH-I535,Galaxy S III,Samsung,Verizon Galaxy S III
-DROID RAZR,Droid Razr,Motorola,Motorola Droid RAZR
+DROID RAZR,Razr,Motorola,Motorola Droid RAZR
 SAMSUNG-SGH-I747,Galaxy S III,Samsung,Samsung Galaxy S III AT&T
 SGH-T999,Galaxy S III,Samsung,Samsung Galaxy S III T-Mobile
 SPH-L710,Galaxy S III,Samsung,Samsung Galaxy S III Sprint
@@ -9,7 +9,7 @@ PC36100,Evo 4g,HTC,HTC EVO 4G LTE
 DROID BIONIC,Droid Bionic,Motorola,Motorola Droid Bionic
 ADR6400L,Thunderbolt,HTC,HTC Thunderbolt 4g
 SGH-T989,Galaxy S II,Samsung,Samsung Galaxy S II  T-Mobile.
-SPH-D710,Galaxy S II,Samsung,Samsung Galaxy S II 
+SPH-D710,Galaxy S II,Samsung,"Samsung Galaxy S II. Samsung Within, S II Epic 4G Touch"
 ADR6300,Droid Incredible,HTC,HTC Droid Incredible
 GT-I9300,Galaxy S II,Samsung,Samsung Galaxy S II
 DROIDX,Droid X,Motorola,Motorola Droid X
@@ -25,20 +25,20 @@ EVO,Evo 3d,HTC,
 SAMSUNG-SGH-I727,Galaxy S II,Samsung,Samsung Galaxy II AT&T
 SCH-I510,Droid Change,Samsung,Samsung Droid Change
 Nexus 7,Nexus 7,Asus,
-XT907,Droid Razr M,Motorola,Motorola Droid Razr M XT907
+XT907,Razr M,Motorola,Motorola Droid Razr M XT907
 PG86100,Evo 3d,HTC,HTC EVO 3d
 HTC Sensation 4G,Sensation 4g,HTC,
 Nexus S 4G,Nexus S 4g,Samsung,
 SPH-D720,Nexus S 4g,Samsung,Spring Nexus S 4g
-HTC Glacier,Glacier,HTC,
+HTC Glacier,Glacier,HTC,T-Mobile myTouch 4G
 SCH-I500,Galaxy S,Samsung,Samsung Galaxy S
 GT-I9100,Galaxy S II,Samsung,Samsung Galaxy S2
-LG-P999,G2X,LG,T-Mobile G2x 
+LG-P999,G2x,LG,T-Mobile G2x 
 ADR6425LVW,Rezound 4g,HTC,HTC - Rezound 4G
-SPH-D700,Epic 4g,Samsung,Samsung Epic 4G
+SPH-D700,Galaxy S II,Samsung,
 SAMSUNG-SGH-I317,Galaxy Note II,Samsung,Samsung Galaxy Note 2
 SAMSUNG-SGH-I777,Galaxy S II,Samsung,Samsung Galaxy II AT&T
-SGH-T959V,Galaxy S 4g,Samsung,Galaxy S 4G 
+SGH-T959V,Galaxy S 4g,Samsung,"Galaxy S 4G, Vibrant Plus, Vibrant 4G"
 SCH-I405,Stratosphere,Samsung,Samsung Stratosphere
 SCH-I415,Stratosphere II,Samsung,Samsung Stratosphere
 DROID2 GLOBAL,Droid 2,Motorola,Motorola Droid 2 Global
@@ -47,8 +47,8 @@ DROID Pro,Droid Pro,Motorola,Motorola DROID Pro
 SAMSUNG-SGH-I717,Galaxy Note,Samsung,Samsung Galaxy Note
 SGH-I747M,Galaxy S III,Samsung,Samsung Galaxy S III
 DROID3,Droid 3,Motorola,Motorola DROID3
-MB860,Atrix 4g,Motorola,Motorola Atrix 4G
-ADR6410LVW,Droid Incredible 4g,HTC,HTC Droid Incredible 4G 
+MB860,Atrix 4g,Motorola,"Motorola Atrix 4G, AT&T"
+ADR6410LVW,Incredible 4g,HTC,HTC Droid Incredible 4G 
 Nexus One,Nexus One,HTC,HTC Nexus One
 SGH-T769,Galaxy Blaze 4g,Samsung,Samsung Galaxy S® Blaze™ 4G
 DROID X2,Droid X2,Motorola,Motorola Droid X2
@@ -62,6 +62,150 @@ GT-S5660,Galaxy Gio,Samsung,Samsung Galaxy Gio
 GT-5830L,Galaxy Ace,Samsung,Samsung Galaxy Ace
 S5360,Galaxy Y,Samsung,Samsung Galaxy Y
 GT-S5570,Galaxy Mini,Samsung,Samsung Galaxy Mini
-I200,Galaxy Stellar 4g,Samsung,Samsung Galaxy Stellar
+I200,Stellar,Samsung,Samsung Galaxy Stellar
 XT894,Droid 4,Motorola ,Motorola Droid 4 LTE
 LG-P500,Optimus One,LG,Optimus One P500
+GT-N7100,Galaxy Note II,Samsung,
+Zio,Zio,Kyocera,Kyocera Zio M6000
+Desire HD,Desire HD,HTC,
+HTCEVODesign4G,Evo 4g,HTC,"HTC Hero 4G, HTC Kingdom"
+5860E,Quattro,Coolpad,Coolpad Quattro 4G 5860E
+A100,A100,Acer,Acer Iconia Tab A100
+A200,A200,Acer,Acer Iconia Tab A200
+A500,A500,Acer,Acer Iconia Tab A500
+ADR6330VW,Rhyme,HTC,"HTC Rhyme, HTC Bliss"
+ADR8995,Breakout,Pantech,
+ADR910L,Marauder,Pantech,
+HTC One S,One S,HTC,
+GT-I9100P,Galaxy S II,Samsung,
+LG-E971,Optimus G E973,LG,LG Optimus G E973
+GT-I9300T,Galaxy S III,Samsung,
+GT-N7000,Galaxy Note,Samsung,
+HTC Desire S,Desire S,HTC,
+HTC Amaze 4G,Amaze 4g,HTC,
+GT-I8190,Galaxy S 3 mini,,"Samsung Galaxy S 3 mini, Samsung Galaxy S III more"
+GT-I8190N,Galaxy S 3 mini,,Samsung I8190N Galaxy S III mini with NFC
+GT-I9305,Galaxy S III,,Galaxy S3 LTE
+SGH-I747,Galaxy S III,,"Samsung SGH-I747, Samsung Galaxy S III AT&T"
+HTC Vision,Desire Z,HTC,HTC Vision
+HTC Desire,Desire,HTC,
+HTC6435LVW,,,no sure thing
+EK-GC100,Galaxy Camera,Samsung,
+HTC Incredible S,Incredible S,HTC,
+HTC One V,One V,HTC,
+GT-S5830,Galaxy Ace,Samsung,"Samsung Galaxy Ace La Fleur, Samsung Galaxy Ace Hugo Boss"
+SGH-T989D,Galaxy II,Samsung,
+SGH-I717D,Galaxy Note,Samsung,
+GT-N7105,Galaxy Note II,,
+GT-I9100M,Galaxy II,Samsung,
+SGH-I317M,Galaxy Note II,,
+XT615,Moto,,Motorola MOTO XT615
+HTC ChaCha A810e,ChaCha,HTC,
+LG-E973,G E973,LG,
+ST26i,Xperia J,Sony,
+LT26i,Xperia S,Sony,
+GT-S5839i,,,
+MT15i,Xperia Neo L,Sony,Sony Xperia Neo L
+LG-E400,Optimus L3,LG,LG Optimus L3 E400
+GT-P1000,Galaxy Tab,Samsung,
+HTC Wildfire S A510e,Wildfire S,HTC,HTC PG76110
+GT-I9100T,Galaxy S II,Samsung,
+LG-C555,Optimus Chat,LG,
+SAMSUNG-SGH-I896,Galaxy S,Samsung,AT&T Samsung Galaxy S Captivate
+XT905,Electrify M,Motorola,Motorola Electrify M
+HTC Desire HD A9191,Desire HD,HTC,
+HTC Desire X,Desire X,HTC,
+GT-I9210T,Galaxy S II,Samsung,
+HTC Legend,Legend,HTC,
+HTC Sensation Z710e,Sensation,HTC,T-mobile in us
+U9202L-1,Ascend P1,Huawei,
+GT-P3100,Galaxy Tab 2 7.0,Samsung,
+GT-P5100,Galaxy Tab 2 10.1,Samsung,
+LT25i,Xperia V,Sony,
+SGH-T959D,Galaxy S,Samsung,Samsung Galaxy S Fascinate
+DROID PRO,Droid Pro,Motorola,
+GT-I9305T,Galaxy S III,Samsung,
+HTC Desire C,Desire C,HTC,
+LG-P880,Optimus 4X HD,LG,
+LT30at,Xperia T,Sony,Sony Xperia T LTE AT&T
+XT603,Admiral,Motorola Admiral,Motorola Admiral (Sprint)
+C5303,,,
+GT-I9210,Galaxy S II,Samsung ,Samsung Galaxy II LTE
+GT-N7105T,Galaxy Note II,Samsung ,
+GT-N8000,Galaxy Note 10.1,Samsung ,
+GT-P3110,Galaxy Tab 7.0,Samsung ,
+GT-P7500,Galaxy Tab 10.1,Samsung ,
+GT-S7560M,Galaxy Ace II,Samsung ,
+Garmin-Asus A50,Nuvifone,Garmin-Asus,
+LT29i,Xperia TX,Sony,Sony Xperia LT29i Hayabusa
+MB525,Defy,Motorola,
+SCH-I605,Galaxy Note II ,Samsung ,
+SGH-I717R,Galaxy Note,Samsung ,
+SGH-T589W,Galaxy Q,Samsung ,
+SGH-T999V,Galaxy S III,Samsung ,T-mobile Samsung Galaxy III
+T-Mobile Vivacity,Vivacity,ZTE,ZTE Vivacity on T-mobile
+WIKO-CINK SLIM,,,
+SHW-M250S1,Galaxy S2,Samsung ,Korean GT-9100I
+SHV-E250S1,Galaxy Note II,Samsung ,
+SHV-E210S,Galaxy S III,,
+SHV-E250K,Galaxy Note II,,
+SHV-E210K,Galaxy S III,,Korean i9300
+SHV-E160K,Galaxy Note LTE,Samsung,
+SHV-E160S,Galaxy Note ,,
+SCH-I545,Galaxy S4,Samsung,Verizon S4
+SAMSUNG-SGH-I337,Galaxy S4,Samsung,Samsung Galaxy S® 4 (AT&T)
+HTC One,HTC One,HTC,
+SGH-M919 ,Galaxy S4,Samsung,Samsung Galaxy S® 4 (T-Mobile)
+SPH-L720,Galaxy S4,Samsung, Samsung Galaxy S® 4 (Sprint)
+SCH-I605,Galaxy Note II,Samsung,Samsung Galaxy Note® II (Verizon)
+GT-I9505 ,Galaxy S4,Samsung,Samsung Galaxy S4 (International LTE)
+SGH-T889,Galaxy Note II,Samsung, Samsung Galaxy Note® II (T-Mobile)
+HTCONE,HTC One,HTC,
+HTC6435LVW,Droid DNA 4G,,HTC - DROID DNA 4G LTE 
+SPH-L900,Galaxy Note II,Samsung,Samsung Galaxy Note® II (Sprint)
+SAMSUNG-SGH-I537,Galaxy S4,Samsung,Samsung Galaxy S® 4 Active™ (AT&T)
+GT-N7100 ,Galaxy Note II,Samsung,Samsung Galaxy Note II GT-N7100 - factory unlocked
+HTC6500LVW  ,HTC One,HTC,HTC One for Verizon
+LG-P769,Optimus L9,LG ,
+XT1080,Razr Ultra,Motorola,Motorola XT1030 (Verizon)
+GT-I9305,Galaxy S III,Samsung,Galaxy SIII LTE
+GT-I9505G,Galaxy S4,Samsung,Samsung S4 Google Edition
+GT-I9500,Galaxy S4,Samsung,
+SGH-I337M,Galaxy S4,Samsung,
+XT1058,Moto X?,Motorola,
+VS840 4G,Lucid,LG ,LG Lucid 4G LTE
+GT-N7105,Galaxy Note II,Samsung,
+C6603,Xperia Z,Sony,
+LG-MS770,Motion 4G,LG ,LG Motion 4G
+GT-N7000,Galaxy Note,Samsung,
+HTC One X+,One X+,HTC,
+Desire HD,Desire HD,HTC,
+LG-LS970,Optimus G,LG ,LG Optimus G
+MB855,Photon,Motorola ,
+XT1060,Moto X,Motorola,
+MB886,ATRIX HD,Motorola,Motorola ATRIX HD
+HTC_PN071,HTC One,HTC,Australian HTC One
+SGH-T999L,Galaxy S III,Samsung,Samsung Galaxy S® III (T-Mobile 4G LTE)
+HTCEVOV4G,Evo 4G,HTC,
+MB865,Atrix 2,Motorola,
+SCH-R530U,Galaxy S III,Samsung ,
+SGH-T679,Galaxy Exhibit,Samsung,Samsung Galaxy Exhibit™ 4G 
+SGH-T679,HTC Vivid,HTC,
+HTC PH39100,HTC Vivid,HTC,
+HTC_Amaze_4G,Amaze 4G,HTC,
+myTouch_4G_Slide,myTouch 4G Slide,,T-Mobile  myTouch 4G Slide
+SPH-L300,Galaxy Victory 4G LTE,Samsung ,
+SCH-I200,Stellar,Samsung ,Samsung Galaxy Stellar™ (Verizon
+SPH-D710VMUB,Galaxy S2,Samsung ,Virgin Samsung Galaxy S2
+HTC One 801e,HTC One,HTC,HTC One 801e
+SPH-D710BST,Galaxy S2,Samsung ,Boost Samsung Galaxy S2 
+LG-E970,Optimus G,LG,LG Optimus G E970
+SHV-E250S,Galaxy Note II,Samsung,
+SGH-T699,Galaxy S Relay,Samsung, Galaxy S® Relay™ 4G (T-Mobile)
+SCH-R530M,Galaxy S III,Samsung,Samsung Galaxy S® III (Metro PCS)
+C6606,Xperia Z,Sony,
+XT897,Photon Q,Motorola,Motorola XT897 Photon Q Sprint 4G LTE
+LG-E980,Optimus G pro,LG,LG Optimus G Pro E980
+LG-VM696,Optimus Elite,LG,
+PH44100,EVO 4G,HTC ,PH44100 Design 4G
+VS920 4G,LG Spectrum,LG,
