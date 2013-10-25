@@ -8,7 +8,7 @@ if __FILE__ == $0
     file.each_line do |line|
       spl = line.split(',')
       if spl[1].include?(a)
-        answers << "SUPPORTED_DEVICES.add(\"#{spl[0]}\"); // #{spl[1]} - #{spl[3]}"
+        answers << "#{spl[0]} - #{spl[3]}"
       end
     end
     

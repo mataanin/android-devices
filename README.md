@@ -23,3 +23,11 @@ Credits (based on):
  
  * [Blundell's list of devices](http://blog.blundell-apps.com/list-of-android-devices-with-pixel-density-buckets/)
  * [Wikipedia List of Android devices](http://en.wikipedia.org/wiki/List_of_displays_by_pixel_density)
+
+Searching BUILD.Model csv
+-------------------------
+
+I've written a ruby script which can search the models CSV for one or more given phone names. The following are valid and print out the matches
+
+    ruby search-models.rb "Galaxy S III"
+    ruby search-models.rb "Galaxy S III" "Nexus S" "Galaxy S4"
